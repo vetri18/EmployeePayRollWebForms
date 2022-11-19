@@ -1,0 +1,26 @@
+﻿
+body {
+}
+
+
+.heading {
+    color: #42515F;
+    margin-top: 30px;
+    margin-left: 188px;
+    width: 301px;
+    height: 28px;
+    font: normal normal bold 22px/19px Roboto;
+    margin-bottom: 7px;
+    }
+
+.table2 {
+    margin-left: 12px;
+    height: 336px;
+    width: 1601px;
+}
+
+.button1 {
+    text-align: right;
+    color: #42515F;
+    font: normal normal bold 22px/19px Roboto;
+}

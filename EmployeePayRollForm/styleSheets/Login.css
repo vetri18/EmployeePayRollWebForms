@@ -1,0 +1,40 @@
+﻿html {
+    font-size: 14px;
+    font-family: "Open Sans",sans-serif;
+    background-color: #00539f;
+}
+
+.sec1 {
+    margin-top: 25px;
+    margin-left: 300px;
+    height: 354px;
+    background-color: pink;
+    padding-left: 105px;
+    padding-top: 20px;
+    width: 504px;
+    text-shadow: 1px 1px 1px white;
+    border: 5px solid black;
+}
+
+.sec1 {
+    color: blue;
+}
+
+
+
+footer {
+    margin-top: 60px;
+}
+
+#Content2 {
+    border: 3px solid;
+}
+
+.signin {
+    margin-left: 80px;
+}
+
+.signup:hover {
+    background-color: #FFFFFF;
+    color: blue;
+}
